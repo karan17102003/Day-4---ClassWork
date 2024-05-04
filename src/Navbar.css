@@ -1,0 +1,21 @@
+.right-Nav{
+    display: flex;
+    flex-direction: row;
+    gap: 2.5rem;
+}
+.left-Nav{
+    display: flex;
+    flex-direction: row;
+    gap: 2.5rem;
+}
+.Nav{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin:0.5rem 3rem;
+}
+.left-Nav > button{
+    background-color: green;
+    color: white;
+    padding:10px 30px ;
+}
